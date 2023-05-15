@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Jilin University
 - 🌱 I’m currently learning NGS analysis
-![Lulu's GitHub stats](https://github-readme-stats.vercel.app/api?Crazzy-Rabbitstacklens&show_icons=true&theme=radical)
+![Lulu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Crazzy-Rabbit>&theme=<radical>" />
+
 <!--
 **Crazzy-Rabbit/Crazzy-Rabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
