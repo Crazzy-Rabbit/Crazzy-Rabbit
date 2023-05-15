@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi! Nice to meet you 👋
 
 - 🔭 I’m currently working on Jilin University
 - 🌱 I’m currently learning NGS analysis
-![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&show_icons=true&theme=radical)
+![Lulu's GitHub stats](https://github-readme-stats.vercel.app/api?Crazzy-Rabbit=stacklens&show_icons=true&theme=radical)
 
 
 <!--
