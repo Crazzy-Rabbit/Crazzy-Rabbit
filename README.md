@@ -1,7 +1,7 @@
 ### Hi! Nice to meet you 👋
 
 - 🔭 I’m currently working on Jilin University
-- 🌱 I’m currently learning NGS analysis
+- 🌱 I’m currently learning Popgenome and Transciptome analysis
 - 📫 How to reach me: crazzy_rabbit@163.com
 
 
