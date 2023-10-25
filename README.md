@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Jilin University（but hate this mentor for his arrogant and unreasonable）
 - 🌱 I’m currently learning Popgenome and Transciptome analysis
 - 📫 How to reach me: crazzy_rabbit@163.com
-
+- 🤔 I’m looking for help with: pangenome analysis (It's very important for future bioscience !!! trust me)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&hide=html&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
