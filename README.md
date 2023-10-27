@@ -1,6 +1,6 @@
 ### Hi! Nice to meet you 👋
 
-- 🔭 I’m currently working on Jilin University（but hate this mentor for his arrogant and unreasonable）
+- 🔭 I’m currently working on Jilin University
 - 🌱 I’m currently learning Popgenome and Transciptome analysis
 - 📫 How to reach me: crazzy_rabbit@163.com
 - 🤔 I’m looking for help with: pangenome analysis (It's very important for future bioscience !!! trust me)
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...（but hate this mentor for his arrogant and unreasonable）
 - ⚡ Fun fact: ...
 
 -->
