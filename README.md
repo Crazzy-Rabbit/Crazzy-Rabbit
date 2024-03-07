@@ -7,8 +7,8 @@
 
 ## :trophy: My Github Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starskyzheng)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starskyzheng)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Crazzy-Rabbit/Crazzy-Rabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
