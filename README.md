@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Jilin University
 - 🌱 I’m currently learning Popgenome and single cell transciptome analysis
 - 📫 How to reach me: crazzy_rabbit@163.com
-- 🤔 I’m looking for help with: pangenome analysis (It's very important for future bioscience !!! trust me)
+- 🤔 I’m looking for help with: pangenome analysis
 
 ## :trophy: My Github Stats:
 
