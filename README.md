@@ -13,10 +13,10 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 
 ## ⚡Top Repositories:
 <a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=radical&repo=Rscript-to-anaylise-and-visualize" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize" />
 </a>
 <a href="https://github.com/Crazzy-Rabbit/Script-in-Bio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=radical&repo=Script-in-Bio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio" />
 </a>
 
 
