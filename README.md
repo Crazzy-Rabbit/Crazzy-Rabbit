@@ -12,10 +12,10 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 ![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent&card_width=310)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent&card_width=260" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Crazzy-Rabbit&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&card_width=280" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Crazzy-Rabbit&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5&card_width=260" />
 </a>
 
 ## ⚡Top Repositories:
