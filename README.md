@@ -8,7 +8,7 @@
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
 ## :trophy: My Github Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=transparent)
 ![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent)
 
 ## ⚡Top Repositories:
