@@ -8,12 +8,8 @@
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
 ## :trophy: My Github Stats:
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Crazzy-Rabbit&layout=compact&langs_count=8&theme=transparent&size_weight=0.5&count_weight=0.5" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=radical)
 
 ## ⚡Top Repositories:
 <a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
@@ -21,9 +17,6 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 </a>
 <a href="https://github.com/Crazzy-Rabbit/Script-in-Bio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio" />
-</a>
-<a href="https://github.com/Crazzy-Rabbit/Genome-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Genome-analysis" />
 </a>
 
 
