@@ -23,7 +23,15 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize)](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio)](https://github.com/Crazzy-Rabbit/Script-in-Bio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Genome-analysis)](https://github.com/Crazzy-Rabbit/Genome-analysis)
-
+<a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize" />
+</a>
+<a href="https://github.com/Crazzy-Rabbit/Script-in-Bio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio" />
+</a>
+<a href="https://github.com/Crazzy-Rabbit/Genome-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=enome-analysis" />
+</a>
 
 <!--
 **Crazzy-Rabbit/Crazzy-Rabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
