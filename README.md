@@ -12,6 +12,13 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact)
 ![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Crazzy-Rabbit&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ## ⚡Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&repo=Rscript-to-anaylise-and-visualize)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&repo=Script-in-Bio)](https://github.com/anuraghazra/github-readme-stats)
