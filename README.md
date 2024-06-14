@@ -8,13 +8,13 @@
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
 ## :trophy: My Github Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5)
 ![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent)
 
 ## ⚡Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize)](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio)](https://github.com/Crazzy-Rabbit/Script-in-Bio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Genome-analysis)](https://github.com/Crazzy-Rabbit/Genome-analysis）
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Genome-analysis)](https://github.com/Crazzy-Rabbit/Genome-analysis)
 
 
 <!--
