@@ -1,9 +1,9 @@
 ### Hi! Nice to meet you 👋
 
-- 🔭 I’m currently working on Jilin University
-- 🌱 I’m currently learning Popgenome and single cell transciptome analysis
+- 🔭 I’m currently working on West China hospital of SiChuan University
+- 🌱 I’m currently learning: Popgenome and single cell transciptome analysis X
+- 🌱 I’m currently learning: Polygenic risk score analysis
 - 📫 How to reach me: crazzy_rabbit@163.com
-- 🤔 I’m looking for help with: pangenome analysis
 - 
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
