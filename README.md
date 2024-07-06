@@ -15,8 +15,8 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 <a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize" />
 </a>
-<a href="https://github.com/Crazzy-Rabbit/Script-in-Bio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio" />
+<a href="https://github.com/Crazzy-Rabbit/Script-in-PopGenetics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-PopGenetics" />
 </a>
 
 
@@ -31,7 +31,7 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 
 ## ⚡Top Repositories:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize)](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-Bio)](https://github.com/Crazzy-Rabbit/Script-in-Bio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-PopGenetics)](https://github.com/Crazzy-Rabbit/Script-in-PopGenetics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Genome-analysis)](https://github.com/Crazzy-Rabbit/Genome-analysis)
 
 Here are some ideas to get you started:
