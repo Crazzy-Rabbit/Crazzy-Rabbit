@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on West China hospital of SiChuan University
 - 🌱 I’m currently learning: static genome and MR analysis ❌
 - 🌱 I’m currently learning: Polygenic risk score analysis ✅
-- 📫 How to reach me: crazzy_rabbit@163.com
+- 📫 How to reach me: shilulu@stu.wchscu.cn
 - 
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
