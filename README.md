@@ -1,5 +1,6 @@
 # Hi, there! I'm Lulu Shi (史露露) 👋
 ## Ph.D. Student in West China hospital of Sichuan University
+
 ---
 - 🌟 I’m currently learning R/Python/...
 - 📫 How to reach me: shilulu@stu.wchscu.cn
@@ -10,6 +11,7 @@
   - demographic evolution
 
 ---
+
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
 ## :trophy: My Github Stats:
