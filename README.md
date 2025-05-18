@@ -1,10 +1,16 @@
 ### Hi! Nice to meet you 👋
 
-- 🔭 I’m currently working on West China hospital of Sichuan University
-- 🌱 I’m currently learning: post GWAS anaysis such static genome and MR analysis ✅
-- 🌱 I’m currently learning: Polygenic risk score analysis ✅
+#### Ph.D. Student in West China hospital of Sichuan University
+---
+- 🌟 I’m currently learning R/Python/...
 - 📫 How to reach me: shilulu@stu.wchscu.cn
-- 
+- 🚀 Research Interest:
+  - Statistical Genetics
+  - GWAS, Multi-omics analysis, Polygenic risk score analysis
+  - Population Genetics
+  - demographic evolution
+
+---
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
 ## :trophy: My Github Stats:
