@@ -1,7 +1,5 @@
 # Hi, there! I'm Lulu Shi (史露露) 👋
 ## Ph.D. Student in West China hospital of Sichuan University
-
----
 - 🌟 I’m currently learning R/Python/...
 - 📫 How to reach me: shilulu@stu.wchscu.cn
 - 🚀 Research Interest:
