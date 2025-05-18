@@ -6,7 +6,7 @@
   - Statistical Genetics
   - GWAS, Multi-omics analysis, Polygenic risk score analysis
   - Population Genetics
-  - demographic evolution
+  - Demographic evolution, Gene flow, Selection signature
 
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
