@@ -10,8 +10,6 @@
   - Population Genetics
   - demographic evolution
 
----
-
 Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rabbit/count.svg) visitor
 
 ## :trophy: My Github Stats:
