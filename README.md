@@ -12,7 +12,8 @@ Congratulation! My ![Visitor Count](https://profile-counter.glitch.me/Crazzy-Rab
 
 ## :trophy: My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&card_width=320)
-![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent&hide=contribs,prs)
+![Lulu Shi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Crazzy-Rabbit&theme=transparent&hide=contribs,prs&size_weight=0.5&count_weight=0.5&card_width=320)
+
 
 ## ⚡Top Repositories:
 <a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
