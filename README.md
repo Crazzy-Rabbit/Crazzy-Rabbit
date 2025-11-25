@@ -11,7 +11,6 @@
 ## :trophy: My Github Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&card_width=320)
 
-
 ## ⚡Top Repositories:
 <a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize" />
