@@ -9,15 +9,9 @@
   - Demographic evolution, Gene flow, Selection signature
 
 ## :trophy: My Github Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crazzy-Rabbit&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5&card_width=320)
 
-## ⚡Top Repositories:
-<a href="https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Rscript-to-anaylise-and-visualize" />
-</a>
-<a href="https://github.com/Crazzy-Rabbit/Script-in-PopGenetics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Crazzy-Rabbit&theme=transparent&repo=Script-in-PopGenetics" />
-</a>
+[![Top Langs](https://github-readme-stats-sandy-nine-19.vercel.app/api/top-langs/?username=Crazzy-Rabbit)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sandy-nine-19.vercel.app/api?username=Crazzy-Rabbit)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
